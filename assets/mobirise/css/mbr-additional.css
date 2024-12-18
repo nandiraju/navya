@@ -762,7 +762,7 @@ a:hover {
   transform: translateY(-5px);
 }
 .cid-uxgyauTttK {
-  background-image: url("../../../assets/images/background10.jpg");
+  background-color: #212428;
 }
 .cid-uxgyauTttK .mbr-fallback-image.disabled {
   display: none;
@@ -846,7 +846,7 @@ a:hover {
   padding: 10px;
   aspect-ratio: 1;
   border-radius: 6px;
-  background: linear-gradient(145deg, #1e2024, #23272b);
+  background: linear-gradient(145deg, #434a51, #23272b);
   transition: 0.4s all;
 }
 .cid-uxgyauTttK .soc-item:before {
